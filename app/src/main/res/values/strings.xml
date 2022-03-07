@@ -1,3 +1,22 @@
 <resources>
-    <string name="app_name">ListActivity</string>
+    <string name="app_name">ListActivityApp</string>
+
+    <string-array name="items">
+        <item>one</item>
+        <item>two</item>
+        <item>three</item>
+    </string-array>
+
+    <string-array name="prices">
+        <item>£1</item>
+        <item>£2</item>
+        <item>£3</item>
+    </string-array>
+
+    <string-array name="descriptions">
+        <item>desc1</item>
+        <item>desc2</item>
+        <item>desc3</item>
+    </string-array>
+
 </resources>
